@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
 <h3 align="center">I’m currently learning AI/ML/DL/CV</h3>
 
-- 🔭 I’m  on Data Science | GenAI
+- 🔭 I’m  working on LLMs
 - 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **Data Science Open source Projects**
