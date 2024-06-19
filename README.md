@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
 <h3 align="center">I’m currently learning AI/ML/DL/CV</h3>
 
-- 🔭 I’m currently working on [Dog Breed Classification](https://github.com/Mustafa-Shoukat1/Dog-breed-Classification)
-
+- 🔭 I’m  on Data Science | GenAI
 - 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **Data Science Open source Projects**
