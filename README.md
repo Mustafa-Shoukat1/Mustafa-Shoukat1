@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on ** Open source Projects**
 
-- 🤝 I’m looking for help with ** Data Science | ML,DL | NLP | GenAI**
+- 🤝 I can help with ** Data Science | ML,DL | NLP | GenAI** 
 
 - 💬 Ask me about ** Data Science | ML,DL| NLP  Transformers | LLMs Advanced Fine Tuning | Generative AI **
 
