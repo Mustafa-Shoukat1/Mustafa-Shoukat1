@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
-<h3 align="center">I’m currently learning AI/ML/DL/CV</h3>
+<h3 align="center">I’m Familiar with ML/DL/CV/NLP/GENAI </h3>
 
 - 🔭 I’m  working on LLMs
-- 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on **Data Science Open source Projects**
+- 🌱 I’m currently learning **Langchain | Llamaindex | RAG**
 
-- 🤝 I’m looking for help with **Computer Vision | GenAI**
+- 👯 I’m looking to collaborate on ** Open source Projects**
 
-- 💬 Ask me about **Data Science | ML |DL | CV | GenAI**
+- 🤝 I’m looking for help with ** Data Science | ML,DL | NLP | GenAI**
 
-- 📫 How to reach me **mustafashoukat.email@gmail.com**
+- 💬 Ask me about ** Data Science | ML,DL| NLP  Transformers | LLMs Advanced Fine Tuning | Generative AI **
+
+- 📫 How to reach me **mustafashoukat.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
