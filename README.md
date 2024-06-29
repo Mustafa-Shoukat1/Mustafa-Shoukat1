@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
 <h3 align="center">I’m Familiar with ML| DL| CV | NLP | GENAI </h3>
 
+<img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
+
 - 🔭 I’m  working on LLMs
 
 - 🌱 I’m currently learning **Langchain | Llamaindex | RAG**
