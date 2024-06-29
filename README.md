@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
-<h3 align="center">I’m Familiar with ML| DL| CV| NLP | GENAI </h3>
+<h3 align="center">I’m Familiar with ML| DL| CV | NLP | GENAI </h3>
 
 - 🔭 I’m  working on LLMs
 
