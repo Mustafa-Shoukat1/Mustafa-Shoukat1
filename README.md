@@ -1,4 +1,4 @@
-<div align="center">
+
 ## <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
 <h3 align="center">A Data Scientist Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG and Building AI Ajents</h3>
 
@@ -19,7 +19,7 @@
 
 
 
-
+<div align="center">
 # <h3 align="left">About Me</h3>
 
 I am Mustafa Shoukat, a Self-made Data Scientist from Lahore, Pakistan.
@@ -28,7 +28,7 @@ A Passionate Data Scientist with expertise in Mathematics, Statistics, Calculus,
 I am dedicated to continuous learning and Advance model development. My proficiency with tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling, with a strong emphasis on abstract forms, which are increasingly popular in projects on platforms like Kaggle and GitHub.
 
 ![image](https://github.com/user-attachments/assets/bf884a59-47b6-4315-9ca9-e506423b2c23)
-
+</div>
 
 # <h3 align="left">Experience</h3>
 ### Data Scientist @ COMET Estimating LLC (Oct 2023 - Present)
@@ -239,4 +239,4 @@ Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating
   </a>
 </p>
 
-</div>
+
