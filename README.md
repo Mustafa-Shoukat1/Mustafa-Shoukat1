@@ -124,9 +124,9 @@ This project provides a Streamlit application that helps hiring managers improve
 </p>
 
 
+![image](https://github.com/user-attachments/assets/702336a1-8ed8-4034-b5b9-148fc7e054fe)
 # <h3 align="left">Skills 🛠️</h3>
 <div align="center">
-![image](https://github.com/user-attachments/assets/702336a1-8ed8-4034-b5b9-148fc7e054fe)
 
 ## <h4 align="left">Data Science 📊</h4>
 - **Statistics**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
