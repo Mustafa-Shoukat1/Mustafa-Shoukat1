@@ -46,8 +46,8 @@ Ranked in the **top 12%** on the leaderboard in the **WiDS Datathon 2024** (Kagg
 ## 🎓 Certified Data Scientist
 Certified Data Scientist from **IBM and Coursera** (06/2023-04/2024), showcasing a strong foundation in data science.
 
-## 💡 Solved 30+ Data Science Problems
-Accomplished over **30 Data Science problems** on **LeetCode**, proving problem-solving expertise.
+## 💡 Solved 50+ Data Science Problems
+Accomplished over **50 Data Science problems** on **LeetCode**, proving problem-solving expertise.
 
 ## 📊 Kaggle Notebook Expert
 Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating insightful and impactful data science notebooks.
