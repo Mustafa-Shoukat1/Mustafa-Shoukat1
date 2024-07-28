@@ -34,12 +34,13 @@
 </p>
 
 # <h3 align="left">About Me</h3>
-![image](https://github.com/user-attachments/assets/bf884a59-47b6-4315-9ca9-e506423b2c23)
 
 I am Mustafa Shoukat, a Self-made Data Scientist from Lahore, Pakistan.
 A Passionate Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear algebra, Differential equations, and both traditional and advanced ML, DL algorithms, including NLP, GenAI, LLMs, and computer vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLMs libraries like Transformers, Langchain and RAG.
 
 I am dedicated to continuous learning and Advance model development. My proficiency with tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling, with a strong emphasis on abstract forms, which are increasingly popular in projects on platforms like Kaggle and GitHub.
+
+![image](https://github.com/user-attachments/assets/bf884a59-47b6-4315-9ca9-e506423b2c23)
 
 
 # <h3 align="left">Experience</h3>
@@ -68,6 +69,7 @@ The Canadian Institute, Punjab
 - [The Canadian Institute](http://tci.edu.pk)
 
 # <h3 align="left">Skills 🛠️</h3>
+![image](https://github.com/user-attachments/assets/702336a1-8ed8-4034-b5b9-148fc7e054fe)
 
 ## <h4 align="left">Data Science 📊</h4>
 - **Statistics**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
