@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
-<h3 align="center">A Data Scientist Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI</h3>
+<h3 align="center">A Data Scientist Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG and Building AI Ajents</h3>
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
