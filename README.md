@@ -1,148 +1,98 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mustafa Shoukat - Data Scientist & ML Architect</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: #ffffff;
-            margin: 0;
-            padding: 0;
-        }
-        h1, h3 {
-            text-align: center;
-        }
-        .container {
-            width: 90%;
-            margin: auto;
-            padding: 20px;
-        }
-        .profile-picture {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 150px;
-            border-radius: 50%;
-        }
-        .content-section {
-            margin-bottom: 40px;
-        }
-        .section-title {
-            border-bottom: 2px solid #ffffff;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
-        .skills-list, .tools-list {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .skills-list li, .tools-list li {
-            list-style: none;
-            margin: 5px 10px;
-            padding: 10px;
-            background-color: #333;
-            border-radius: 5px;
-        }
-        .contact-icons {
-            text-align: center;
-        }
-        .contact-icons img {
-            margin: 0 10px;
-            width: 40px;
-            height: 40px;
-        }
-        .projects-list {
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi 👋, I'm Mustafa Shoukat</h1>
-        <h3>I’m Familiar with ML | DL | CV | NLP | GENAI</h3>
-        <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
+## <h1 align="center">Hi 👋, I'm Mustafa Shoukat</h1>
+<h3 align="center">A Data Scientist Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI</h3>
 
-        <div class="content-section">
-            <h3 class="section-title">About Me</h3>
-            <p>
-                I am Mustafa Shoukat, a Pakistan-based Data Scientist specializing in Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.
-                I'm passionate about data-driven solutions and continuously advancing my skills. Currently, I’m working on Large Language Models (LLMs) and learning about Langchain, Llamaindex, and Retrieval-Augmented Generation (RAG).
-            </p>
-            <p>
-                <strong>Major Project:</strong> NewsBot: News Research Tool 📊🔍
-                <br>
-                Advanced-News-Article-Analysis-Bot-with-LangChain-FAISS-and-Streamlit. NewsBot is an advanced news research tool designed for in-depth analysis of news articles, providing powerful capabilities for extracting insights, tracking trends, and analyzing news content with precision.
-            </p>
-        </div>
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
+</p>
 
-        <div class="content-section">
-            <h3 class="section-title">My Achievements</h3>
-            <ul>
-                <li>KFUEIT University English Speech Competition - University-wide Certified Winner 2023</li>
-                <li>Best Performance Award from COMET Estimating LLC (07/2024)</li>
-                <li>AI Enthusiasts Training 50+ students in Data Science, 80+ Students in Marketing and Customer Care</li>
-                <li>WIDS Datathon 2024 #2 ranked in the top 12% on the leaderboard (Kaggle Competition)</li>
-                <li>Certified Data Scientist from IBM and Coursera 06/2023-04/2024</li>
-                <li>Solved 30+ Data Science problems on LeetCode</li>
-                <li>Kaggle Notebook Expert</li>
-            </ul>
-        </div>
+- 🔭 I’m currently focused on **Large Language Models (LLMs)** and exploring the latest advancements in **Langchain**, **Llamaindex**, and **RAG**.
+- 🌱 I’m continually learning and improving my skills in **Advanced Fine-Tuning**, **Generative AI**, and other cutting-edge technologies.
+- 👯 I’m open to collaborating on **Open Source Projects** and contributing to the broader tech community.
+- 🤝 I can assist with projects related to **Data Science**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Generative AI**.
+- 💬 Feel free to reach out to me with questions about **Data Science**, **ML/DL**, **NLP**, **Transformers**, **LLMs**, **Advanced Fine-Tuning**, and **Generative AI**.
+- 📫 Contact me via email: **mustafashoukat.ai@gmail.com**.
 
-        <div class="content-section">
-            <h3 class="section-title">Skills</h3>
-            <ul class="skills-list">
-                <li>Data Science</li>
-                <li>Machine Learning</li>
-                <li>Deep Learning</li>
-                <li>Natural Language Processing</li>
-                <li>Generative AI</li>
-                <li>Python</li>
-                <li>Java</li>
-                <li>SQL</li>
-                <li>Web Scraping</li>
-                <li>Data Visualization</li>
-                <li>Feature Engineering</li>
-                <li>Transfer Learning</li>
-                <li>Attention Mechanisms</li>
-                <li>Transformers Architecture</li>
-                <li>LangChain Framework</li>
-                <li>Data Retrieval Techniques</li>
-            </ul>
-        </div>
+# <h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafashoukat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/mustafashoukat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/mustafashoukat/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
-        <div class="content-section">
-            <h3 class="section-title">Tools & Technologies</h3>
-            <ul class="tools-list">
-                <li>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</li>
-                <li>![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</li>
-                <li>![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)</li>
-                <li>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)</li>
-                <li>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</li>
-                <li>![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</li>
-                <li>![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</li>
-                <li>![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)</li>
-                <li>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</li>
-                <li>![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</li>
-                <li>![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)</li>
-                <li>![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)</li>
-                <li>![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)</li>
-                <li>![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)</li>
-                <li>![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)</li>
-            </ul>
-        </div>
+# <h3 align="left">💻 Tools & Languages:</h3>
+<p align="left">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+</p>
 
-        <div class="content-section">
-            <h3 class="section-title">Projects</h3>
-            <ul class="projects-list">
-                <li><strong>NewsBot:</strong> Advanced-News-Article-Analysis-Bot-with-LangChain-FAISS-and-Streamlit.</li>
-                <li><strong>Dog-breed-Classification:</strong> Created a dog breed classification model using deep learning and transfer learning.</li>
-                <li><strong>Talk-to-MySQL:</strong> Few-Shot SQL Query Generation with Google PaLM and LangChain.</li>
-                <li><strong>WiDS'24-2:</strong> Exploring Equity in Healthcare (Kaggle Competition).</li>
-                <li><strong>Emotional Expressions in Tweets Using NLP Techniques:</strong> Analyzing a dataset of tweets labeled with six primary emotions.</li>
-                <li><strong>Google (GOOG) Stock Prices Prediction:</strong> Analyzing and predicting Google's stock price.</li>
-                <li><strong>Decoding Billionaire Trends:</strong> Unleashing Kernel PCA to find patterns among the richest people in the world.</li>
-                <li><strong>Facebook-AI-Similarity-Search:</strong> Using
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en" alt="mustafa-shoukat1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="mustafa-shoukat1" />
+</p>
+
+# <h3 align="left">About Me</h3>
+I am Mustafa Shoukat, a self-made Data Scientist from Lahore, Pakistan. With expertise in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations, I specialize in both traditional and advanced ML/DL algorithms, including NLP, Generative AI, LLMs, and Computer Vision. Proficient in Python and Java, I have extensive experience with data handling, cleaning, visualization, and modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. Additionally, I am skilled in LLM libraries like Transformers, Langchain, and RAG.
+
+I am dedicated to continuous learning and model development. My expertise in tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset for AI-driven projects.
+
+# <h3 align="left">Experience</h3>
+### Data Scientist @ COMET Estimating LLC (Oct 2023 - Present)
+- Led data analysis and ML, DL, NLP, and Generative AI Modeling projects to support strategic business decisions.
+- Translated complex business problems into data science challenges and provided actionable insights and recommendations.
+- Presented and demonstrated data science solutions to clients, highlighting their impact and value.
+- Developed and implemented advanced algorithms, including ML, DL, NLP, and Generative AI models.
+- [Company Website](https://cometestimating.com)
+
+### Business Development & Sales Representative @ COMET Estimating LLC (Sep 2022 - Sep 2023)
+- Identified and pursued new business opportunities, leading to increased revenue and market presence.
+- Engaged with potential clients, presented services, closed sales deals, and maintained strong relationships with existing clients.
+- [Company Website](https://cometestimating.com)
+
+# <h3 align="left">Education</h3>
+### Bachelor of Science in Computer Science (2023 - Present)
+Virtual University, Lahore
+- Enrolled in a comprehensive curriculum that covers Data Structures, Algorithms, Software Engineering, AI, and Database Systems.
+- Developing skills in programming, problem-solving, and project management with practical applications in technology and data science.
+- [Virtual University](https://www.vu.edu.pk/)
+
+### Intermediate in Computer Science (ICS) (2020 - 2022)
+The Canadian Institute, Punjab
+- Studied Mathematics, Statistics, and Computer Science, building a foundation in programming, data science, logical reasoning, and problem-solving.
+- [The Canadian Institute](http://tci.edu.pk)
+
+# <h3 align="left">Skills</h3>
+### Data Science
+- **Statistics**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
+- **Mathematics**: Algebra, Calculus, Probability, Linear Algebra
+- **Python**: Data Analysis, Data Visualization, Statistical Modeling
+- **SQL**: Database Management, Query Optimization
+- **Web Scraping**: Data Extraction Techniques
+- **Data Visualization**: Tools and Libraries (e.g., Plotly, Matplotlib, Seaborn)
+- **Data Mining & Wrangling**: Cleaning, Transforming, and Preparing Data
+- **Feature Engineering**: Creating and Selecting Features
+- **Data Storytelling**: Communicating Insights Effectively
+- **Problem-Solving & Communication**: Translating Complex Problems into Actionable Solutions
+- **Domain Knowledge**: Understanding Industry-Specific Data
+- **Experimentation**: Designing and Conducting Experiments
+
+### Machine Learning & Deep Learning
+-
