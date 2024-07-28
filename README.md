@@ -12,47 +12,9 @@
 - 💬 Feel free to reach out to me with questions about **Data Science**, **ML/DL**, **NLP**, **Transformers**, **LLMs**, **Advanced Fine-Tuning**, and **Generative AI**.
 - 📫 Contact me via email: **mustafashoukat.ai@gmail.com**.
 
-# <h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mustafashoukat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/mustafashoukat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/mustafashoukat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 
 
 
-# <h3 align="center">Achievements 🏆</h3>
-
-<div align="center">
-
-## 🗣️ KFUEIT University English Speech Competition
-**University-wide Certified Winner 2023** - Recognized for outstanding performance in public speaking.
-
-## 🏅 Best Performance Award from COMET Estimating LLC
-Awarded **Best Performance** in July 2024 for exceptional contributions and achievements.
-
-## 👨‍🏫 AI Enthusiasts Training
-Trained **50+ students in Data Science** and **80+ Students in Marketing and Customer Care**, fostering the next generation of AI enthusiasts.
-
-## 🥈 WiDS Datathon 2024
-Ranked in the **top 12%** on the leaderboard in the **WiDS Datathon 2024** (Kaggle Competition), demonstrating advanced data science skills.
-
-## 🎓 Certified Data Scientist
-Certified Data Scientist from **IBM and Coursera** (06/2023-04/2024), showcasing a strong foundation in data science.
-
-## 💡 Solved 50+ Data Science Problems
-Accomplished over **50 Data Science problems** on **LeetCode**, proving problem-solving expertise.
-
-## 📊 Kaggle Notebook Expert
-Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating insightful and impactful data science notebooks.
-
-</div>
 
 
 # <h3 align="left"> 💻 Tools & Language :</h3>
@@ -230,5 +192,47 @@ This project provides a Streamlit application that helps hiring managers improve
 - **Vector Databases (FAISS)**: Efficient Similarity Search
 </div>
 
+
+# <h3 align="center">Achievements 🏆</h3>
+
+<div align="center">
+
+## 🗣️ KFUEIT University English Speech Competition
+**University-wide Certified Winner 2023** - Recognized for outstanding performance in public speaking.
+
+## 🏅 Best Performance Award from COMET Estimating LLC
+Awarded **Best Performance** in July 2024 for exceptional contributions and achievements.
+
+## 👨‍🏫 AI Enthusiasts Training
+Trained **50+ students in Data Science** and **80+ Students in Marketing and Customer Care**, fostering the next generation of AI enthusiasts.
+
+## 🥈 WiDS Datathon 2024
+Ranked in the **top 12%** on the leaderboard in the **WiDS Datathon 2024** (Kaggle Competition), demonstrating advanced data science skills.
+
+## 🎓 Certified Data Scientist
+Certified Data Scientist from **IBM and Coursera** (06/2023-04/2024), showcasing a strong foundation in data science.
+
+## 💡 Solved 50+ Data Science Problems
+Accomplished over **50 Data Science problems** on **LeetCode**, proving problem-solving expertise.
+
+## 📊 Kaggle Notebook Expert
+Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating insightful and impactful data science notebooks.
+
+</div>
+
+
+
+# <h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafashoukat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/mustafashoukat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/mustafashoukat/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
 
