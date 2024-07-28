@@ -63,8 +63,9 @@ The Canadian Institute, Punjab
 - Studied Mathematics, Statistics, and Computer Science, building a foundation in programming, data science, logical reasoning, and problem-solving.
 - [The Canadian Institute](http://tci.edu.pk)
 
-# <h3 align="left">Skills</h3>
-### Data Science
+# <h3 align="left">Skills 🛠️</h3>
+
+## <h4 align="left">Data Science 📊</h4>
 - **Statistics**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
 - **Mathematics**: Algebra, Calculus, Probability, Linear Algebra
 - **Python**: Data Analysis, Data Visualization, Statistical Modeling
@@ -74,9 +75,64 @@ The Canadian Institute, Punjab
 - **Data Mining & Wrangling**: Cleaning, Transforming, and Preparing Data
 - **Feature Engineering**: Creating and Selecting Features
 - **Data Storytelling**: Communicating Insights Effectively
-- **Problem-Solving & Communication**: Translating Complex Problems into Actionable Solutions
+- **Communication Skills**: Clear and Effective Communication
+- **Problem-Solving**: Translating Complex Problems into Actionable Solutions
 - **Domain Knowledge**: Understanding Industry-Specific Data
 - **Experimentation**: Designing and Conducting Experiments
+- **Data Pipelines**: Building and Managing Data Pipelines
+- **Hyperparameter Tuning**: Optimizing Model Performance
+- **Time Series Analysis**: Analyzing Temporal Data
 
-### Machine Learning & Deep Learning
--
+## <h4 align="left">Machine Learning & Deep Learning 🤖</h4>
+- **Programming**: Python, Java
+- **Data Preprocessing**: Data Cleaning, Normalization
+- **Data Augmentation**: Enhancing Training Data
+- **ML Algorithms**: Supervised, Unsupervised Learning
+- **Model Selection and Training**: Choosing and Training Models
+- **Model Evaluation**: Performance Metrics, Validation
+- **Scikit-learn**: ML Algorithms, Model Building
+- **Keras**: High-Level Neural Networks API
+- **TensorFlow**: Deep Learning Framework
+- **PyTorch**: Deep Learning Framework
+- **Feature Engineering**: Advanced Techniques
+- **Performance Tuning**: Optimizing Models
+- **Hyperparameter Optimization**: Fine-Tuning Models
+- **Transfer Learning**: Feature Extraction, Fine Tuning
+
+## <h4 align="left">Natural Language Processing (NLP) 📝</h4>
+- **Text Processing**: Text Cleaning, Tokenization
+- **Tokenization**: Breaking Text into Components
+- **Embeddings**: Representing Text Data
+- **Parts of Speech Tagging**: Identifying Grammatical Elements
+- **Transformers Architecture**: Attention Mechanisms, BERT, GPT
+- **Named Entity Recognition (NER)**: Identifying Entities
+- **Sentiment Analysis**: Determining Sentiment
+- **Machine Translation**: Language Translation Models
+- **Vector Database**: Storing Text Representations
+- **Text Generation**: Generating Human-like Text
+- **Hugging Face**: NLP Library and Models
+- **Text Classification**: Categorizing Text
+- **Text Vectorization**: Converting Text into Vectors
+- **Attention Mechanisms**: Focus Mechanisms in NLP
+- **Language Models**: GPT, BERT
+- **Information Retrieval**: Searching and Retrieving Information
+- **Conversational AI**: Dialogue Systems, Chatbots
+
+## <h4 align="left">Generative AI, Langchain & RAG 🌟</h4>
+- **GANs, VAEs**: Generative Adversarial Networks, Variational Autoencoders
+- **Diffusion Models**: Models for Data Generation
+- **Langchain Framework**: Integrating Language Models
+- **Fine Tuning**: PEFT, LoRa, Q-LoRa
+- **RLHF, ORPO**: Reinforcement Learning with Human Feedback
+- **ChatBots**: Conversational Agents
+- **Language Models**: Advanced Language Models
+- **Retrieval Augmented Generation**: Combining Retrieval and Generation
+- **Data Retrieval Techniques**: Efficient Data Retrieval
+- **LLMs Evaluation Metrics**: Evaluating Language Models
+- **Research Skills**: Conducting AI Research
+- **AI Agents**: Intelligent Agents
+- **Lang Smith**: Langchain Tools and Techniques
+- **Evaluation Techniques for Generative Models**: Assessing Model Quality
+- **Q & A ChatBots**: Building and Evaluating Q&A Systems
+- **Vector Databases (FAISS)**: Efficient Similarity Search
+
