@@ -136,3 +136,50 @@ The Canadian Institute, Punjab
 - **Q & A ChatBots**: Building and Evaluating Q&A Systems
 - **Vector Databases (FAISS)**: Efficient Similarity Search
 
+# <h3 align="left">Projects 📂</h3>
+
+## 💬 Talk-to-MySQL: Few-Shot SQL Query Generation with Google PaLM 🧠 and LangChain 🔗🚀
+Developed an end-to-end system to generate SQL queries from natural language inputs using Google PaLM and LangChain. This project leverages advanced language models and prompt engineering to interact seamlessly with a MySQL database through natural language queries.
+
+## 🛒 AtliQ Tees: Talk to a Database
+This project integrates Google Palm and LangChain to create a system capable of interacting with a MySQL database via natural language queries. The system translates user questions into SQL queries, making database interaction intuitive and efficient.
+
+## 💻🔧 Code Generation using Google PaLM and LangChain
+Explore automated code generation in this notebook, including functions, data loading, and models. Get hands-on with practical examples and see the power of these tools in action!
+
+## 🐶📸🤖 Dog Breed Classification with Computer Vision & Deep Learning
+Created a dog breed classification model using deep learning and transfer learning. This model accurately identifies dog breeds from images, showcasing advanced machine learning skills and effective application of computer vision techniques.
+
+## ✨ WiDS'24-2: Exploring Equity in Healthcare
+Participating in the WiDS Datathon 2024, aiming to predict the time until metastatic cancer diagnosis using patient data. The dataset includes 19,000 records with attributes such as age, race, BMI, diagnosis details, and demographic and climate data. The model's performance is evaluated using Root Mean Squared Error (RMSE).
+
+## 😊📝 Emotional Expressions in Tweets Using NLP Techniques
+Analyzed a dataset of tweets labeled with six primary emotions: anger, fear, joy, love, sadness, and surprise. Using BiLSTM and RNN models, this project contributes to understanding sentiment analysis, emotion classification, and text mining within the realm of short social media messages.
+
+## 📈💹 Google (GOOG) Stock Prices Prediction - July 24
+Analyzed and predicted Google's (GOOG) stock price for June 24 with insights on market trends and expert analysis. This project helps make smarter investment decisions with a comprehensive forecast.
+
+## 📊💡 Decoding Billionaire Trends: Unleashing Kernel PCA
+Explored patterns among the ultra-wealthy, investigating whether they are typically investment bankers or tech entrepreneurs who dropped out of college. This project provides insights into the backgrounds and characteristics of the richest people in the world.
+
+## 🤖🔍 Facebook-AI-Similarity-Search
+Demonstrated the process of using Facebook AI Similarity Search (Faiss) along with Sentence Transformers to create a vector-based similarity search for an NLP dataset. Learn how to encode text data into embeddings, build a Faiss index, and perform similarity searches to find related text entries.
+
+## ⚙️🤖📚 Transformer Architecture & Generative AI: A Guide and Insights
+Provided a detailed exploration of the principles and applications of transformer architecture in generative AI. Understanding the theoretical foundations and practical implementations of these models is essential for advancing in the field of AI.
+
+## 🗣️🤖🔗 Intelligent Conversational Agents: Chat Model with LangChain RAG
+Explored building intelligent conversational agents with LangChain. This project covers prompt engineering, chat model creation, document retrieval with FAISS, and text summarization using transformer models. Through practical examples, you’ll learn to integrate these components into a context-aware chatbot system.
+
+## 🔄🔍🔧 Fine-Tuning and PEFT with QLoRA on LLaMA 3
+Advanced techniques of fine-tuning, PEFT, LoRa, and QLoRA on the LLaMA 3 model. This project offers hands-on experience and practical insights to enhance model performance with efficient use of computational resources.
+
+## 📚🚀 Hugging Face Guide: Usage of Datasets, Pre-trained Models, and Transformers Libraries
+Provided a practical exploration of Hugging Face's ecosystem, focusing on datasets, models, and transformers. Hugging Face has become a pivotal platform for advanced data science, offering powerful tools and pre-trained models that streamline the development of various applications.
+
+## 🆘📊 Disaster vs. Non-Disaster Tweets: NLP for Accurate Classification
+Explored the application of NLP techniques to classify tweets as either related to disasters or not. This project aims to create an effective model that can automatically identify disaster-related content on social media.
+
+## 📈🔮 Bitcoin Price Predictions (2014-2024): Analyzing a Decade of Market Trends and Forecasts
+Analyzed Bitcoin's price trends from 2014 to 2024, offering insights into past performance and future predictions. Utilizing various analytical tools, this project provides a comprehensive forecast of Bitcoin's potential trajectory.
+
