@@ -22,7 +22,7 @@
 
 
 <div align="center">
-# <h3 align="left">About Me</h3>
+<h3 align="left">About Me</h3>
 
 I am **Mustafa Shoukat**, a **Self-made Data Scientist** from **Lahore, Pakistan**. 
 
