@@ -34,9 +34,13 @@
 </p>
 
 # <h3 align="left">About Me</h3>
-I am Mustafa Shoukat, a self-made Data Scientist from Lahore, Pakistan. With expertise in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations, I specialize in both traditional and advanced ML/DL algorithms, including NLP, Generative AI, LLMs, and Computer Vision. Proficient in Python and Java, I have extensive experience with data handling, cleaning, visualization, and modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. Additionally, I am skilled in LLM libraries like Transformers, Langchain, and RAG.
+![image](https://github.com/user-attachments/assets/bf884a59-47b6-4315-9ca9-e506423b2c23)
 
-I am dedicated to continuous learning and model development. My expertise in tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset for AI-driven projects.
+I am Mustafa Shoukat, a Self-made Data Scientist from Lahore, Pakistan.
+A Passionate Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear algebra, Differential equations, and both traditional and advanced ML, DL algorithms, including NLP, GenAI, LLMs, and computer vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLMs libraries like Transformers, Langchain and RAG.
+
+I am dedicated to continuous learning and Advance model development. My proficiency with tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling, with a strong emphasis on abstract forms, which are increasingly popular in projects on platforms like Kaggle and GitHub.
+
 
 # <h3 align="left">Experience</h3>
 ### Data Scientist @ COMET Estimating LLC (Oct 2023 - Present)
@@ -182,4 +186,9 @@ Explored the application of NLP techniques to classify tweets as either related 
 
 ## 📈🔮 Bitcoin Price Predictions (2014-2024): Analyzing a Decade of Market Trends and Forecasts
 Analyzed Bitcoin's price trends from 2014 to 2024, offering insights into past performance and future predictions. Utilizing various analytical tools, this project provides a comprehensive forecast of Bitcoin's potential trajectory.
+
+## 📄🔍 Resume ATS for Hiring Manager
+This project provides a Streamlit application that helps hiring managers improve resumes using an ATS (Applicant Tracking System) by evaluating resumes based on a given job description. The application parses resumes, scores them against job descriptions, and offers actionable feedback to optimize resumes for better alignment with the job requirements. This tool streamlines the hiring process, ensuring resumes meet the necessary criteria before they reach human reviewers.
+
+
 
