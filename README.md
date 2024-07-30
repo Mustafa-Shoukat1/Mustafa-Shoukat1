@@ -35,7 +35,7 @@ I am dedicated to continuous learning 📘 and advanced model development ⚙️
 </div>
 
 # <h3 align="left">Experience</h3>
-### Data Scientist @ COMET Estimating LLC (Oct 2023 - Present)
+### Data Scientist @ COMET Estimating LLC (Oct 2023 - June 24)
 - Led data analysis and ML, DL, NLP, and Generative AI Modeling projects to support strategic business decisions.
 - Translated complex business problems into data science challenges and provided actionable insights and recommendations.
 - Presented and demonstrated data science solutions to clients, highlighting their impact and value.
