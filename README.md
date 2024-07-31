@@ -246,9 +246,8 @@ Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating
 
 
 <p align="center">
-  <img width="1000" src="[https://raw.githubusercontent.com/Mustafa-Shoukat1/Mustafa-Shoukat1/main/assets/github-snake.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)" alt="snake"/>
+  <img src="[https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)" alt="GIF image">
 </p>
-
 
 
 
