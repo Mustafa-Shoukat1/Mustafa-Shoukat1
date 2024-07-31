@@ -246,7 +246,7 @@ Recognized as a **Kaggle Notebook Expert**, highlighting proficiency in creating
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="1000" src="https://raw.githubusercontent.com/Mustafa-Shoukat1/Mustafa-Shoukat1/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 
