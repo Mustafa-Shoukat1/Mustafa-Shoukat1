@@ -1,5 +1,5 @@
 
-## <h1 align="center">Asalam alaikum warahmatullah wabarakatu 👋, I'm Mustafa Shoukat</h1>
+# <h1 align="center">Asalam alaikum warahmatullah wabarakatu 👋, I'm Mustafa Shoukat</h1>
 
 <h3 align="center">A Data Scientist Specializing in Machine Learning 🤖, Deep Learning 🧠, Computer Vision 📸, NLP 📚, Generative AI 💡, RAG 📚, and Building AI Agents 🤖🔗</h3>
 
