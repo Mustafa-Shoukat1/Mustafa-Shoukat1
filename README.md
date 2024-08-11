@@ -13,7 +13,7 @@ Here's the updated content with only relevant emojis:
 
 - 🔭 I’m currently focused on **Large Language Models (LLMs)** and exploring the latest advancements in **Langchain 🔗**, **Llamaindex 🦙**, and **RAG 📚**.
 - 🌱 I’m continually learning and improving my skills in **Advanced Fine-Tuning 🛠️**, **Generative AI 💡**, and other cutting-edge technologies.
-- 👯 I’m open to collaborating on **Open Source Projects 🌐** and contributing to the broader tech community.
+- 👯 I’m open to collaborating on **Open Source Projects** and contributing to the broader tech community.
 - 🤝 I can assist with projects related to **Data Science 📊**, **Machine Learning 🤖**, **Deep Learning 🧠**, **Natural Language Processing (NLP) 📚**, and **Generative AI 🔮**.
 - 💬 Feel free to reach out to me with questions about **Data Science 📊**, **ML/DL 🤖/🧠**, **NLP 📚**, **Transformers 🚀**, **LLMs 🔗**, **Advanced Fine-Tuning 🛠️**, and **Generative AI 💡**.
 - 📫 Contact me via email: **mustafashoukat.ai@gmail.com**.
