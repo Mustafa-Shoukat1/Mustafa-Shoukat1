@@ -1,7 +1,5 @@
 <h1 align="center">Mustafa Shoukat</h1>
-<p align="center">
-  <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
-</p>
+
 <p align="center">
   
   <p style="font-size: 1.2em; font-style: italic;">
@@ -22,6 +20,9 @@
   I am proficient in Python and utilize a variety of libraries and frameworks such as NumPy, SciPy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LlamaIndex, CrewAI, and Autogen. My solid foundation in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations supports my work in both traditional and advanced Machine Learning and Deep Learning methodologies.
 </p>
 
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
+</p>
 
 <h3 align="center">Achievements</h3>
 <div align="center">
