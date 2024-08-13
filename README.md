@@ -30,7 +30,6 @@
     <li><strong>KFUEIT University English Speech Competition</strong> - University-wide Certified Winner 2023</li>
     <li><strong>Best Performance Award from COMET Estimating LLC</strong> - Awarded Best Performance in July 2024</li>
     <li><strong>AI Enthusiasts Training</strong> - Trained over 130 students in Data Science and Marketing</li>
-    <li><strong>WiDS Datathon 2024</strong> - Ranked in the top 12% on the leaderboard</li>
     <li><strong>Certified Data Scientist</strong> - Certified by IBM and Coursera (06/2023-04/2024)</li>
     <li><strong>LeetCode Problem Solving</strong> - Solved over 50 Data Science problems</li>
     <li><strong>Kaggle Notebook Expert</strong> - Recognized for creating impactful data science notebooks</li>
