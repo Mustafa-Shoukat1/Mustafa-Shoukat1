@@ -9,7 +9,6 @@
   I’m a Data Scientist at COMET Estimating LLC, specializing in:
 </p>
 <ul>
-  <li>Data Science</li>
   <li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Natural Language Processing (NLP)</li>
