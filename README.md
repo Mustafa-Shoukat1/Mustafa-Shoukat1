@@ -4,7 +4,9 @@
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
 <p align="center">
-  I am a driven and solution-oriented Data Scientist currently working at COMET Estimating LLC. My expertise spans a wide range of areas, including:
+  I’m a go-getter and problem solver who makes success a reality through my own efforts.
+
+  I’m a Data Scientist at COMET Estimating LLC, specializing in:
 </p>
 <ul>
   <li>Data Science</li>
