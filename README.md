@@ -29,33 +29,7 @@ A **Passionate Data Scientist** with expertise in **Mathematics 📐**, **Statis
 
 I am dedicated to continuous learning and advanced model development. My proficiency with tools like **Git**, **GitHub**, **Kaggle**, and **Hugging Face 🤗**, combined with my passion for **AI 🤖** and **data-driven solutions **, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling 📈, with a strong emphasis on abstract forms 🌐, which are increasingly popular in projects on platforms like **Kaggle** and **GitHub**.
 
-![image](https://github.com/user-attachments/assets/bf884a59-47b6-4315-9ca9-e506423b2c23)
 </div>
-
-# <h3 align="left">Experience</h3>
-### Data Scientist @ COMET Estimating LLC (remote) (Oct 2023 - Aug 2024)
-- Led data analysis and ML, DL, NLP, and Generative AI Modeling projects to support strategic business decisions.
-- Translated complex business problems into data science challenges and provided actionable insights and recommendations.
-- Presented and demonstrated data science solutions to clients, highlighting their impact and value.
-- Developed and implemented advanced algorithms, including ML, DL, NLP, and Generative AI models.
-- [Company Website](https://cometestimating.com)
-
-### Business Development & Sales Representative @ COMET Estimating LLC (Sep 2022 - Sep 2023)
-- Identified and pursued new business opportunities, leading to increased revenue and market presence.
-- Engaged with potential clients, presented services, closed sales deals, and maintained strong relationships with existing clients.
-- [Company Website](https://cometestimating.com)
-
-# <h3 align="left">Education</h3>
-### Bachelor of Science in Computer Science (2023 - Present)
-Virtual University, Lahore
-- Enrolled in a comprehensive curriculum that covers Data Structures, Algorithms, Software Engineering, AI, and Database Systems.
-- Developing skills in programming, problem-solving, and project management with practical applications in technology and data science.
-- [Virtual University](https://www.vu.edu.pk/)
-
-### Intermediate in Computer Science (ICS) (2020 - 2022)
-The Canadian Institute, Punjab
-- Studied Mathematics, Statistics, and Computer Science, building a foundation in programming, data science, logical reasoning, and problem-solving.
-- [The Canadian Institute](http://tci.edu.pk)
 
 
 
