@@ -4,7 +4,11 @@
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
 <p align="center">
+  
+  <p style="font-size: 1.2em; font-style: italic;">
   I’m a go-getter and problem solver who makes success a reality through my own efforts.
+</p>
+
 
   I’m a Data Scientist at COMET Estimating LLC, specializing in:
 </p>
