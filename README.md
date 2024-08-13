@@ -4,11 +4,7 @@
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
 
-<h3 align="left">About Me</h3>
-
-I am Mustafa Shoukat, a Self-made Data Scientist from Lahore, Pakistan.
-
-I am a Passionate Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear Algebra, Differential Equations, and both traditional and advanced Machine Learning and Deep Learning algorithms, including NLP, Generative AI, LLMs, and Computer Vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLM libraries like Transformers, Langchain, and RAG.
+Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear Algebra, Differential Equations, and both traditional and advanced Machine Learning and Deep Learning algorithms, including NLP, Generative AI, LLMs, and Computer Vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLM libraries like Transformers, Langchain, and RAG.
 
 I am dedicated to continuous learning and advanced model development. My proficiency with tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling, with a strong emphasis on abstract forms, which are increasingly popular in projects on platforms like Kaggle and GitHub.
 
