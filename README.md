@@ -1,5 +1,4 @@
 <h1 align="center">Mustafa Shoukat</h1>
-<h3 align="center">Data Scientist | Machine Learning | Deep Learning | NLP | Generative AI | AI Agent Development</h3>
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
