@@ -33,6 +33,14 @@
     <li><strong>Kaggle Notebook Expert</strong> - Recognized for creating impactful data science notebooks</li>
   </ul>
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="GitHub Streak" />
+</p>
+
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mustafashoukat" target="_blank">
