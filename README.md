@@ -1,56 +1,48 @@
-<h1 align="center">I'm Mustafa Shoukat</h1>
-<h3 align="center">A Data Scientist Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG, and Building AI Agents</h3>
+<h1 align="center">Mustafa Shoukat</h1>
+<h3 align="center">Data Scientist | Machine Learning | Deep Learning | NLP | Generative AI | AI Agent Development</h3>
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
-
-Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear Algebra, Differential Equations, and both traditional and advanced Machine Learning and Deep Learning algorithms, including NLP, Generative AI, LLMs, and Computer Vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLM libraries like Transformers, Langchain, and RAG.
-
-I am dedicated to continuous learning and advanced model development. My proficiency with tools like Git, GitHub, Kaggle, and Hugging Face, combined with my passion for AI and data-driven solutions, makes me a valuable asset in AI-driven projects. As a Data Scientist, my work focuses on data modeling, with a strong emphasis on abstract forms, which are increasingly popular in projects on platforms like Kaggle and GitHub.
-
-</div>
-<h3 align="left"> Tools & Languages:</h3>
-              
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en" alt="mustafa-shoukat1" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="mustafa-shoukat1" />
+  I am a driven and solution-oriented Data Scientist currently working at COMET Estimating LLC. My expertise spans a wide range of areas, including:
 </p>
-
-
+<ul>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Generative AI and RAG Applications</li>
+  <li>AI Agent Development</li>
+</ul>
+<p align="center">
+  I am proficient in Python and utilize a variety of libraries and frameworks such as NumPy, SciPy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LlamaIndex, CrewAI, and Autogen. My solid foundation in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations supports my work in both traditional and advanced Machine Learning and Deep Learning methodologies.
+</p>
+<h3 align="center">Tools & Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="GitHub Streak" />
+</p>
 <h3 align="center">Achievements</h3>
 <div align="center">
-KFUEIT University English Speech Competition
-University-wide Certified Winner 2023 - Recognized for outstanding performance in public speaking.
-
-Best Performance Award from COMET Estimating LLC
-Awarded Best Performance in July 2024 for exceptional contributions and achievements.
-
-AI Enthusiasts Training
-Trained 50+ students in Data Science and 80+ Students in Marketing and Customer Care, fostering the next generation of AI enthusiasts.
-
-WiDS Datathon 2024
-Ranked in the top 12% on the leaderboard in the WiDS Datathon 2024 (Kaggle Competition), demonstrating advanced data science skills.
-
-Certified Data Scientist
-Certified Data Scientist from IBM and Coursera (06/2023-04/2024), showcasing a strong foundation in data science.
-
-Solved 50+ Data Science Problems
-Accomplished over 50 Data Science problems on LeetCode, proving problem-solving expertise.
-
-Kaggle Notebook Expert
-Recognized as a Kaggle Notebook Expert, highlighting proficiency in creating insightful and impactful data science notebooks.
-
+  <ul>
+    <li><strong>KFUEIT University English Speech Competition</strong> - University-wide Certified Winner 2023</li>
+    <li><strong>Best Performance Award from COMET Estimating LLC</strong> - Awarded Best Performance in July 2024</li>
+    <li><strong>AI Enthusiasts Training</strong> - Trained over 130 students in Data Science and Marketing</li>
+    <li><strong>WiDS Datathon 2024</strong> - Ranked in the top 12% on the leaderboard</li>
+    <li><strong>Certified Data Scientist</strong> - Certified by IBM and Coursera (06/2023-04/2024)</li>
+    <li><strong>LeetCode Problem Solving</strong> - Solved over 50 Data Science problems</li>
+    <li><strong>Kaggle Notebook Expert</strong> - Recognized for creating impactful data science notebooks</li>
+  </ul>
 </div>
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mustafashoukat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mustafashoukat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/mustafashoukat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  <a href="https://www.kaggle.com/mustafashoukat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/mustafashoukat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/mustafashoukat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
