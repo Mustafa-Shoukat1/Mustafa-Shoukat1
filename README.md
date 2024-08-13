@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
-Here's the updated content:
 
 I’m currently focused on Large Language Models (LLMs) and exploring the latest advancements in Langchain, Llamaindex, and RAG.
 I’m continually learning and improving my skills in Advanced Fine-Tuning, Generative AI, and other cutting-edge technologies.
@@ -11,8 +10,9 @@ I’m open to collaborating on Open Source Projects and contributing to the broa
 I can assist with projects related to Data Science, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI.
 Feel free to reach out to me with questions about Data Science, ML/DL, NLP, Transformers, LLMs, Advanced Fine-Tuning, and Generative AI.
 Contact me via email: mustafashoukat.ai@gmail.com.
-<div align="center">
+
 <h3 align="left">About Me</h3>
+
 I am Mustafa Shoukat, a Self-made Data Scientist from Lahore, Pakistan.
 
 I am a Passionate Data Scientist with expertise in Mathematics, Statistics, Calculus, Linear Algebra, Differential Equations, and both traditional and advanced Machine Learning and Deep Learning algorithms, including NLP, Generative AI, LLMs, and Computer Vision. I am proficient in Python and Java, and I have extensive experience in Data Handling, Cleaning, Visualization, and Modeling using libraries such as Scikit-learn, TensorFlow, Keras, and PyTorch. I am skilled in LLM libraries like Transformers, Langchain, and RAG.
