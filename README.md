@@ -1,7 +1,7 @@
 <h1 align="center">Mustafa Shoukat</h1>
 
   <p align="center" style="font-size: 1.2em; font-style: italic;">
-  I’m a go-getter and problem solver who makes success a reality through my own efforts.
+  I’m a go-getter and problem solver who makes success a reality through my efforts.
 </p>
 
 
