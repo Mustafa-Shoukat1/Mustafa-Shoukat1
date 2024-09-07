@@ -2,6 +2,10 @@
 [![AI_|_ML Roadmap](https://img.shields.io/badge/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/edit/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md)
 [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/)
 
+![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue)
+[![AI_|_ML Roadmap](https://img.shields.io/badge/ML-Roadmap-green)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/edit/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md)
+[![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-red)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/)
+
 
 <h1 align="center">Mustafa Shoukat</h1>
 
