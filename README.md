@@ -24,6 +24,9 @@
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
 
+[![AI_|_ML Roadmap](https://img.shields.io/badge/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/edit/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md)
+
+
 <h3 align="center">Achievements</h3>
 <div align="center">
   <ul>
