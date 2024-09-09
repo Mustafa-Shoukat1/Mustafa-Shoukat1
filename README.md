@@ -18,7 +18,7 @@
   <li>Deep Learning</li>
   <li>Natural Language Processing (NLP)</li>
   <li>Generative AI and RAG Applications</li>
-  <li>AI Agent Development [ Crew AI, Autogen, langgraph ]</li>
+  <li>AI Agent Development [ Crew AI, Autogen, Lang graph ]</li>
 </ul>
 <p>
   I am proficient in Python and utilize a variety of libraries and frameworks such as NumPy, SciPy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LlamaIndex, CrewAI, and Autogen. My solid foundation in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations supports my work in both traditional and advanced Machine Learning and Deep Learning methodologies.
