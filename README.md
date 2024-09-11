@@ -5,7 +5,6 @@
 
 ![image](https://github.com/user-attachments/assets/2aeb2675-f981-46cf-a7b4-26e5582454e1)
 
-<h1 align="center">Mustafa Shoukat</h1>
 
   <p align="center" style="font-size: 1.2em; font-style: italic;">
   I am a go-getter and problem solver who makes success a reality through my efforts.
