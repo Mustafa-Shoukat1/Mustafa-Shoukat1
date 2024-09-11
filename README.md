@@ -3,6 +3,7 @@
 [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/)
 
 
+![image](https://github.com/user-attachments/assets/2aeb2675-f981-46cf-a7b4-26e5582454e1)
 
 <h1 align="center">Mustafa Shoukat</h1>
 
