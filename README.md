@@ -10,7 +10,7 @@
 
   <p align="center" style="font-size: 1.2em; font-style: italic;">
   I am a go-getter and problem solver who makes success a reality through my efforts.
-</p>
+  </p>
 
 
   I’m a Data Scientist at COMET Estimating LLC, specializing in:
