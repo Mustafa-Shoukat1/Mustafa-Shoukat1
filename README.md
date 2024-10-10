@@ -48,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="GitHub Streak" />
 </p>
 
-
 <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
 <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
     <tr style="background-color: #64B5F6; color: #ffffff;">
@@ -58,6 +57,7 @@
         <th style="padding: 8px; border-bottom: 2px solid #000000;">GitHub</th>
         <th style="padding: 8px; border-bottom: 2px solid #000000;">Kaggle</th>
         <th style="padding: 8px; border-bottom: 2px solid #000000;">LeetCode</th>
+        <th style="padding: 8px; border-bottom: 2px solid #000000;">WhatsApp</th>
     </tr>
     <tr style="background-color: #FFFFFF; color: #000000;">
         <td style="padding: 8px;">Mustafa Shoukat</td>
@@ -77,9 +77,10 @@
                 <img src="https://img.shields.io/badge/Kaggle-20beff.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge" style="border-radius: 5px; width: 100px;">
             </a>
         </td>
+        <td style="padding: 8px;">N/A</td>
         <td style="padding: 8px;">
-            <a href="https://leetcode.com/mustafashoukat/" target="_blank">
-                <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge" style="border-radius: 5px; width: 100px;">
+            <a href="https://wa.me/923093609261" target="_blank">
+                <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" style="border-radius: 5px; width: 100px;">
             </a>
         </td>
     </tr>
