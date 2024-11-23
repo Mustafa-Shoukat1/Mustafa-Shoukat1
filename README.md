@@ -7,12 +7,12 @@
   I am a go-getter and problem solver who makes success a reality through my efforts.
 </p>
 
-I’m a Data Scientist at COMET Estimating LLC, specializing in:
+Generative AI Engineer at Navid (KSA), specializing in:
 <ul>
   <li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Natural Language Processing (NLP)</li>
-  <li>Generative AI and RAG Applications</li>
+  <li>Generative AI and RAG Applications</li> 
   <li>Autonomous Agentic AI [ Crew AI, Autogen, Lang graph ]</li>
 </ul>
 
