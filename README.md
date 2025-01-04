@@ -4,7 +4,7 @@
 [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/)
 
 <p align="center" style="font-size: 1.2em; font-style: italic;">
-  I am a go-getter and problem solver who makes success a reality through my efforts.
+  Go-getter and problem solver who makes success a reality through my efforts.
 </p>
 
 Generative AI Engineer at Navid (KSA), specializing in:
