@@ -12,7 +12,7 @@ Generative AI Engineer at Navid (KSA), specializing in:
   <li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Natural Language Processing (NLP)</li>
-  <li>Generative AI and RAG Applications</li> 
+  <li>Generative AI and RAG Applications</li>
   <li>Autonomous Agentic AI [ Crew AI, Autogen, Lang graph ]</li>
 </ul>
 
