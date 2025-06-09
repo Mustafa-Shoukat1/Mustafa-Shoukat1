@@ -1,7 +1,5 @@
-![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue)  
-[![My Portfolio Website](https://img.shields.io/badge/My_Portfolio_Website-blue)](https://mustafashoukat.netlify.app/)  
-[![AI/ML Roadmap](https://img.shields.io/badge/AI/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/blob/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md)  
-[![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS)
+![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue) [![My Portfolio Website](https://img.shields.io/badge/My_Portfolio_Website-blue)](https://mustafashoukat.netlify.app/) [![AI/ML Roadmap](https://img.shields.io/badge/AI/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/blob/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md) [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS)
+
 
 <p align="center"><strong>Go-getter and problem solver who makes success a reality through my efforts.</strong></p>
 
