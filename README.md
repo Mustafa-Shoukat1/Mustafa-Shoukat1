@@ -35,10 +35,14 @@ AI Engineer at Navid (KSA), specializing in:
   </ul>
 </div>
 
+## My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" />
 </p>
+
+---
 
 <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
 <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
