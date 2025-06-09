@@ -5,20 +5,27 @@
 
 ---
 
-### **AI Engineer at Navid (KSA)**
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20px;">
+      <h3><strong>AI Engineer at Navid (KSA)</strong></h3>
+      <p><strong>Specializing in:</strong></p>
+      <ul>
+        <li>AI Product Development (Web & Mobile Apps)</li>
+        <li>Local & Agentic RAG System Development</li>
+        <li>Low-Code / No-Code AI Automation Solutions</li>
+        <li>Generative AI & Retrieval-Augmented Generation (RAG) Apps</li>
+        <li>AI System Architecture Design & Implementation</li>
+        <li>Cloud-Native AI Deployment (AWS & Scalable Environments)</li>
+      </ul>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
+    </td>
+  </tr>
+</table>
 
-**Specializing in:**
-
-- AI Product Development (Web & Mobile Apps)  
-- Local & Agentic RAG System Development  
-- Low-Code / No-Code AI Automation Solutions  
-- Generative AI & Retrieval-Augmented Generation (RAG) Apps  
-- AI System Architecture Design & Implementation  
-- Cloud-Native AI Deployment (AWS & Scalable Environments)
-
-<p align="center">
-  <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
-</p>
+---
 
 ### Student Life Achievements
 
@@ -39,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" width="350"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" width="350"/>
 </p>
+
 ---
 
 ## Contact Information
