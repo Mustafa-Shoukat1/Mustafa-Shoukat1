@@ -7,24 +7,23 @@
   Go-getter and problem solver who makes success a reality through my efforts.
 </p>
 
-Generative AI Engineer at Navid (KSA), specializing in:
+AI Engineer at Navid (KSA), specializing in:
 <ul>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Natural Language Processing (NLP)</li>
+  <li>AI Products Web/Mobile apps development</li>
+  <li>Local & Agentic RAG Developer </li>
+  <li>Low-Code / No-Code AI Automation</li>
   <li>Generative AI and RAG Applications</li>
-  <li>Autonomous Agentic AI [ Crew AI, Autogen, Lang graph ]</li>
+  <li>AI Application System Architecture Design & Implementation</li>
+  <li>Cloud-Native AI Software Development & Deployment (AWS)</li>
+  <li>Custom AI Automation Bots without Coding</li>
+  
 </ul>
-
-<p>
-  Proficient in Python and utilize a variety of libraries and frameworks such as NumPy, SciPy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LlamaIndex, CrewAI, and Autogen. My solid foundation in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equations supports my work in both traditional and advanced Machine Learning and Deep Learning methodologies.
-</p>
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="GIF image">
 </p>
 
-<h3 align="center">Achievements</h3>
+<h3 align="center">Student Life Achievements</h3>
 <div align="center">
   <ul>
     <li><strong>Best Performance Award from COMET Estimating LLC</strong> - Awarded Best Performance in July 2024</li>
