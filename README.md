@@ -65,7 +65,6 @@
           <th>LinkedIn</th>
           <th>GitHub</th>
           <th>Kaggle</th>
-          <th>LeetCode</th>
           <th>WhatsApp</th>
         </tr>
       </thead>
@@ -86,11 +85,6 @@
           <td>
             <a href="https://www.kaggle.com/mustafashoukat" target="_blank">
               <img src="https://img.shields.io/badge/Kaggle-20beff.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
-            </a>
-          </td>
-          <td>
-            <a href="https://leetcode.com/mustafashoukat" target="_blank">
-              <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge">
             </a>
           </td>
           <td>
