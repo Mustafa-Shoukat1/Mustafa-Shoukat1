@@ -11,7 +11,7 @@
     <tr>
       <td valign="top" style="padding-right: 20px;">
         <h3><strong>AI Engineer</strong></h3>
-        <p><strong>Specializing in:</strong></p>
+        <p><strong>Specialized in:</strong></p>
         <ul>
           <li>AI Product Development (Web & Mobile Apps)</li>
           <li>Local & Agentic RAG System Development</li>
