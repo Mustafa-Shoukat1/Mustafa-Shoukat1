@@ -35,7 +35,7 @@
   <ul align="center" style="list-style-position: inside; padding-left: 0;">
     <li><strong>Best Performance Award from COMET Estimating LLC</strong> - July 2024</li>
     <li><strong>Winner - KFUEIT English Speech Competition</strong> - April 2023</li>
-    <li><strong>AI Enthusiasts Trainer</strong> - Trained 130+ students in Data Science and Marketing</li>
+    <li><strong>AI Enthusiasts Trainer</strong> - Trained 150+ students in Data Science and Marketing</li>
     <li><strong>Certified Data Scientist</strong> - IBM & Coursera (06/2023–04/2024)</li>
     <li><strong>LeetCode Problem Solving</strong> - Solved 50+ Data Science problems</li>
     <li><strong>Kaggle Notebook Expert</strong> - Created impactful data science notebooks</li>
