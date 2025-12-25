@@ -1,4 +1,4 @@
-![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue) [![My Portfolio Website](https://img.shields.io/badge/My_Portfolio_Website-blue)](https://mustafashoukat.netlify.app/) [![AI/ML Roadmap](https://img.shields.io/badge/AI/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/blob/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md) [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS)
+![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue) [![My Portfolio Website](https://img.shields.io/badge/My_Portfolio_Website-blue)](https://mustafashoukat.netlify.app/) [![AI/Roadmap](https://img.shields.io/badge/AI/ML-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS/blob/main/Data%20Scientist_%7C_Machine_Learning_Engineer_Roadmap.md) [![Generative AI Roadmap](https://img.shields.io/badge/Generative_AI-Roadmap-blue)](https://github.com/Mustafa-Shoukat1/My-AI-and-Data-Science-Journey-Personal-Roadmaps-of-AI-ML-DS)
 
 <div align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
   <p align="center" style="margin:0;"><strong>Go-getter and problem solver who makes success a reality through my efforts.</strong></p>
@@ -45,7 +45,6 @@
 ---
 
 <h2 align="center">My GitHub Stats</h2><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="180"/>
 </p>
 
