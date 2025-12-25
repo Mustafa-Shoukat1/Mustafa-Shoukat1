@@ -44,13 +44,12 @@
 
 ---
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
-  <h2 align="center">My GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" width="350"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" width="350"/>
-  </p>
-</div>
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="165"/>
+</p>
 
 ---
 
