@@ -44,11 +44,9 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="165"/>
+<h2 align="center">My GitHub Stats</h2><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-shoukat1&show_icons=true&locale=en&theme=tokyonight" alt="Mustafa's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="180"/>
 </p>
 
 ---
