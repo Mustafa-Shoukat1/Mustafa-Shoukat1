@@ -30,12 +30,6 @@
 
 ---
 
-<h2 align="center">My GitHub Stats</h2><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="180"/>
-</p>
-
----
-
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
   <h2 align="center">Contact Information</h2>
   <div style="overflow-x:auto;">
