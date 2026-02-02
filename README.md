@@ -30,20 +30,6 @@
 
 ---
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
-  <h3 align="center">Student Life Achievements</h3>
-  <ul align="center" style="list-style-position: inside; padding-left: 0;">
-    <li><strong>Best Performance Award from COMET Estimating LLC</strong> - July 2024</li>
-    <li><strong>Winner - KFUEIT English Speech Competition</strong> - April 2023</li>
-    <li><strong>AI Enthusiasts Trainer</strong> - Trained 150+ students in Data Science and Marketing</li>
-    <li><strong>Certified Data Scientist</strong> - IBM & Coursera (06/2023–04/2024)</li>
-    <li><strong>LeetCode Problem Solving</strong> - Solved 50+ Data Science problems</li>
-    <li><strong>Kaggle Notebook Expert</strong> - Created impactful data science notebooks</li>
-  </ul>
-</div>
-
----
-
 <h2 align="center">My GitHub Stats</h2><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shoukat1&theme=tokyonight" alt="Mustafa's GitHub Streak" height="180"/>
 </p>
