@@ -73,3 +73,35 @@
     </table>
   </div>
 </div>
+
+---
+
+### Numbers
+
+| | |
+|---|---|
+| **767+** | GitHub contributions in the last year |
+| **617+** | Automated tests in ByanRAG (production Arabic RAG system) |
+| **62** | Tests across open source PRs (ragas + unstructured) |
+| **5** | ML models in production |
+| **150+** | Students trained in Data Science & AI |
+| **22** | Fiverr reviews at 5.0 ⭐ rating |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Shoukat1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Shoukat1&theme=default&hide_border=true" alt="GitHub Streak" height="165">
+</p>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafashoukat)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Mustafa-Shoukat1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mustafashoukat)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafashoukat.email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mustafashoukat.netlify.app)
