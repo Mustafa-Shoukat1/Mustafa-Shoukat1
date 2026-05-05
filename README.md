@@ -1,7 +1,7 @@
 ![View Count](https://komarev.com/ghpvc/?username=Mustafa-Shoukat1&color=blue)
 
 <div align="center" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
-  <p align="center" style="margin:0;"><strong>Go-getter and problem solver who makes success a reality through my efforts.</strong></p>
+  <p align="center" style="margin:0;"><strong>Go-Getter and problem solver who makes success a reality through my efforts.</strong></p>
 </div>
 
 ---
