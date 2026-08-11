@@ -15,7 +15,7 @@
         <ul>
           <li>AI Product Development (Web & Mobile Apps)</li>
           <li>Local & Agentic RAG System Development</li>
-          <li>Generative AI SaaS Product Development</li>
+          <li>Agentic AI SaaS Product Development</li>
           <li>AI System Architecture Design & Implementation</li>
           <li>Cloud-Native AI Deployment (AWS & Scalable Environments)</li>
           <li>Low-Code / No-Code AI Automation Solutions</li>
