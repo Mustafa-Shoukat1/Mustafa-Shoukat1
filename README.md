@@ -13,12 +13,11 @@
         <h3><strong>An AI-Software Engineer</strong></h3>
         <p><strong>Specialized in:</strong></p>
         <ul>
-          <li>AI Product Development (Web & Mobile Apps)</li>
+          <li>AI Product Development</li>
           <li>Local & Agentic RAG System Development</li>
           <li>Agentic AI SaaS Product Development</li>
           <li>AI System Architecture Design & Implementation</li>
           <li>Cloud-Native AI Deployment (AWS & Scalable Environments)</li>
-          <li>Low-Code / No-Code AI Automation Solutions</li>
         </ul>
       </td>
       <td valign="top" align="center">
